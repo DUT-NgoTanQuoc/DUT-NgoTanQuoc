@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @DUT-NgoTanQuoc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Ngô Tấn Quốc 👋
 
-<!---
-DUT-NgoTanQuoc/DUT-NgoTanQuoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer at Worki
+
+I'm passionate about backend development,
+distributed systems,
+AI-powered applications
+and scalable SaaS platforms.
+
+Currently working with
+
+• Node.js
+• TypeScript
+• PostgreSQL
+• Docker
+• Redis
+• Microservices
+
+Languages
+
+Python
+Java
+C#
+C/C++
+
+Always learning something new 🚀
